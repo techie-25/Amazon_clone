@@ -1,2 +1,2 @@
-# Amazon_clone
-it's based on html&css project.
+# Calculator
+This project is completely based on html,css & javascript.
